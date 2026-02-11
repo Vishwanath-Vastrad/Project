@@ -1,8 +1,5 @@
 
 
-// Added new features in the app.js file
- 
+// Added new features by Vishwanath Vastrad
 
-
- 
 
