@@ -1,5 +1,2 @@
 
-
-// Added new features by Vishwanath Vastrad
-
-
+console.log("JavaScript");
